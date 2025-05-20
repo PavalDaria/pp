@@ -1,0 +1,1 @@
+<html><head><title>Titlul</title></head><body><h1>Salut!</h1><p>Paragraf 1</p><p>Paragraf 2</p></body></html>
